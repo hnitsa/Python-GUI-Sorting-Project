@@ -7,4 +7,5 @@ This project implements:
 2. Performance testing for each of the algorithms.
 3. Three types of hash tables: Chaining, Open Addressing (Double Hashing), Linear Probing.
 4. Performance testing for each of the hash tables types.
-5. BSTs
+5. Linked lists.
+6. BSTs.
